@@ -35,4 +35,6 @@ dependencies {
     compile 'com.android.support:support-annotations:+'
     compile project(path: ':http')
     compile project(path: ':cli')
+    compile 'com.intellij:annotations:+@jar'
+    compile 'com.squareup.okhttp:okhttp:2.1.0'
 }

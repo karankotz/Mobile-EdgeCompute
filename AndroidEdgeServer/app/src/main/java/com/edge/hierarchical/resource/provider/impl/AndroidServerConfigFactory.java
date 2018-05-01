@@ -15,7 +15,9 @@ import home.Calculator;
 import home.Index;
 import home.Login;
 import home.Logout;
+import home.N_Queens;
 import home.ServerStats;
+import home.UnitConverter;
 import home.filter.LogoutFilter;
 import home.filter.SecurityFilter;
 import com.edge.http.MimeTypeMapping;
@@ -114,6 +116,14 @@ public class AndroidServerConfigFactory extends DefaultServerConfigFactory {
                         .withUrlPattern(Pattern.compile("^/ServerStats$"))
                         .withServletClass(ServerStats.class)
                     .end()
+                .addServlet()
+                .withUrlPattern(Pattern.compile("^/UnitConverter$"))
+                .withServletClass(UnitConverter.class)
+                .end()
+                .addServlet()
+                .withUrlPattern(Pattern.compile("^/N_Queens$"))
+                .withServletClass(N_Queens.class)
+                .end()
                 .end();
 
     }

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "outputFile": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\values-v18\\values-v18.xml",
+                    "file": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/values-v18/values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

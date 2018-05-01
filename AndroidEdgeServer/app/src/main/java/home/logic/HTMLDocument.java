@@ -85,6 +85,8 @@ public class HTMLDocument {
         menuElements.put("ServerStats", "Statistics");
         menuElements.put("Logout", "Logout");
       menuElements.put("Calculator", "Calculator");
+        menuElements.put("UnitConverter", "Unit Converter");
+        menuElements.put("N_Queens", "N-Queens Problem");
 
 
         if (isAuthenticated) {
