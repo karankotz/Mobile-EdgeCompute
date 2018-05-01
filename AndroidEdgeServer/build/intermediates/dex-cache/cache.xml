@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ddd0e18217846f90d47b59e5e58b33dc0d542ccd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\484058cb2f3f8557c3a76e8f231bc60630a1f84c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_ae4c80a53149ae9d79ca9775447a5b38c6670a28.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\633aa604ff93bdf8ea41ff3d324abc48abf05ac9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13708706e61d19334d63d7a3ea97ac42312a215c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\484058cb2f3f8557c3a76e8f231bc60630a1f84c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae4c80a53149ae9d79ca9775447a5b38c6670a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\633aa604ff93bdf8ea41ff3d324abc48abf05ac9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_13708706e61d19334d63d7a3ea97ac42312a215c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\43c7ca602719f4c4c5f3761a682be9789f2f9997\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb6c84fc4d0b44ccd3a281fd7b57d4a50bb5bde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\43c7ca602719f4c4c5f3761a682be9789f2f9997\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_cb6c84fc4d0b44ccd3a281fd7b57d4a50bb5bde9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\71dc09e21bc051fa0b7c2d7287cfd3fcd4022df9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_c611da9c99b6e1e33370a73fc6ecdf54906afcfc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_bb55cd000613be072c7f73afff6e119e95c6d583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c6fa131760520bcb8a446beb888a04806d24254">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8891d27726ee1854221d4a608999a4bfeb30323f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\71dc09e21bc051fa0b7c2d7287cfd3fcd4022df9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c611da9c99b6e1e33370a73fc6ecdf54906afcfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\ebbfa0f995a66bbdc935a7b0e2db65dda6c7bccd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e057812f52e63fa56a48fa59ae1b7ec3de0964c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Mobile Computing\Mobile Computing Project Version 1\HierarchicalCloud\AndroidEdgeServer\cli\build\libs\cli.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="301f6f63753fdeddd28c45ae0744e980dc4c4c6f">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project Version 1\HierarchicalCloud\AndroidEdgeServer\app\build\intermediates\pre-dexed\debug\cli_7dea913b911b16aec3d87008e7532bc6e9b5caf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_bfa4034d56b63685cc7b02e9606f8eafeead6bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\ebbfa0f995a66bbdc935a7b0e2db65dda6c7bccd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_e057812f52e63fa56a48fa59ae1b7ec3de0964c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\http\build\libs\http.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efe6791259bb3a9c84d0d458ae7808bcc760b610">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\http_7ade9bbdb2d05a3ee44b049b62546c3e374972d0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\6f05eec39068d97253e87960489ba7b64d618596\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb5e919a5ec48a2ce3fdb81893998adfa9dea210\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\6f05eec39068d97253e87960489ba7b64d618596\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_cb5e919a5ec48a2ce3fdb81893998adfa9dea210.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\d0eb3c688a73feb9f9d9373de889775b06b4d6d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a0b3d6c38829afbb3e29f8817afa66ab8c61749\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\cli\build\libs\cli.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b93c9e89a9eeaa50ad011c4c0e79e82a1a5712e">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\cli_a24a063abe3b43d19853db38474edc00ec3cdfb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\88f4c8dd4a978060ac51b0978f01b06d5bab351d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_2d0b335d21d7da4cbe65869ec22fd24b82a9c2dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a78d1bd4bb01e4ebff36920c40a21228e32d10eb">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6e22667cc794664dc149b96e9b40a3c6dc049a4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\d0eb3c688a73feb9f9d9373de889775b06b4d6d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_8a0b3d6c38829afbb3e29f8817afa66ab8c61749.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\88f4c8dd4a978060ac51b0978f01b06d5bab351d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d0b335d21d7da4cbe65869ec22fd24b82a9c2dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sai\.android\build-cache\21e067c99046963dd709102b1e32d21fd53bc203\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project 4162018\android-http-server-20180416T201859Z-001\android-http-server\app\build\intermediates\pre-dexed\debug\classes_6b358603c5cf51cf5c6959fded02faec8a65b47f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Mobile Computing\Mobile Computing Project Version 1\HierarchicalCloud\AndroidEdgeServer\http\build\libs\http.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="138d6b4c8dfdc5168f7262a3adc2d24005022876">
+        <dex dex="C:\Mobile Computing\Mobile Computing Project Version 1\HierarchicalCloud\AndroidEdgeServer\app\build\intermediates\pre-dexed\debug\http_e1e7ab4954bb0df2f0a2a058c713ad8cb22409f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_d9e227320d2c7c4ddff226a9356a3306a16f6d9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sai\.android\build-cache\21e067c99046963dd709102b1e32d21fd53bc203\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Mobile Computing\Final Project\android-http-server\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b358603c5cf51cf5c6959fded02faec8a65b47f\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,53 @@
+package com.edge.http.protocol.parser.impl;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.edge.http.protocol.parser.MalformedInputException;
+import com.edge.http.protocol.parser.Parser;
+import com.edge.http.servlet.Range;
+
+public class RangeParser implements Parser<List<Range>> {
+
+    public static final String START_WORD = "bytes=";
+
+    @Override
+    public List<Range> parse(String input) throws MalformedInputException {
+        List<Range> rangeList = new ArrayList<>();
+
+        String inputNormalized = input.toLowerCase().trim();
+        if (!inputNormalized.startsWith(START_WORD)) {
+            throw new MalformedInputException("Header value must start with bytes=");
+        }
+
+        String[] rangesString = inputNormalized.substring(START_WORD.length()).split(",");
+        for (String rangeString : rangesString) {
+            if (rangeString.indexOf("-") == -1) {
+                throw new MalformedInputException("Invalid range value " + rangeString);
+            }
+
+            String[] values = rangeString.split("-");
+
+            if (values.length != 2) {
+                throw new MalformedInputException("Invalid range value " + rangeString);
+            }
+
+            rangeList.add(getRange(values));
+        }
+
+        return rangeList;
+    }
+
+    private Range getRange(String[] values) throws MalformedInputException {
+        try {
+            Range range = new Range();
+            range.setFrom(Long.parseLong(values[0].trim()));
+            range.setTo(Long.parseLong(values[1].trim()));
+
+            return range;
+
+        } catch (NumberFormatException e) {
+            throw new MalformedInputException("Invalid range value, unable to parse numeric values " + e.getMessage());
+        }
+    }
+}
