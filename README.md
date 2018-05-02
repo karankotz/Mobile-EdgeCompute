@@ -13,7 +13,8 @@ There are three modules in this System:-
 
 ### AndroidEdgeServer  
 
-The Android Application is an edge server that can be run with the following steps
+The Android Application is an edge server that can be run with the following steps  
+
 	1> Git clone the project  
 	
 	2> Navigate to the Mobile-EdgeCompute folder
