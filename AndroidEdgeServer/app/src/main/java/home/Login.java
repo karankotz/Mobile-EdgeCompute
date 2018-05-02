@@ -12,7 +12,6 @@ import com.edge.http.servlet.HttpServletResponse;
 import com.edge.http.utilities.Utilities;
 
 public class Login extends HttpServlet {
-
     private static final Logger LOGGER = Logger.getLogger(Login.class.getName());
     public static final String RELOCATE_PARAM_NAME = "relocate";
 
@@ -26,7 +25,7 @@ public class Login extends HttpServlet {
 
         doc.writeln("<div class=\"form-login\">");
 
-        doc.writeln("<h2>Web Server Login</h2>");
+        doc.writeln("<h2> Web Server</h2>");
 
         if (request.getMethod().equals(HttpRequestWrapper.METHOD_POST)) {
             if (ac.doLogin(request.getPostParameter("login"), request.getPostParameter("password"))) {

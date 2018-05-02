@@ -1,34 +1,18 @@
 [
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/drawable-v21/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

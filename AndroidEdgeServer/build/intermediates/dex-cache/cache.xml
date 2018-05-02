@@ -2,31 +2,49 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/opt/android-studio/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Mobile Computing\Mobile Computing Version 2\Mobile-EdgeCompute\AndroidEdgeServer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="adeea8be41abe74f66e0305e2986fe84642a05e0">
+        <dex dex="C:\Mobile Computing\Mobile Computing Version 2\Mobile-EdgeCompute\AndroidEdgeServer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6d860d07f1005fc3f28fcaf367b8cd0f8b5464ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\intellij\annotations\12.0\annotations-12.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="bbcf6448f6d40abe506e2c83b70a3e8bfd2b4539">
-        <dex dex="/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/pre-dexed/debug/annotations-12.0_39b00e8e3cf7a037d47f236262ca0a1c09b80d3d.jar" />
+        <dex dex="C:\Mobile Computing\Mobile Computing Version 2\Mobile-EdgeCompute\AndroidEdgeServer\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-12.0_e0fa7c64b47413623bb97d5f6a361b3c347a7145\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/cli/build/libs/cli.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Sai\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.1\39eff75ddcb987ff65888361a29f489c178429a3\okio-1.0.1.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="2a03708297b6e971bb69aa4c7995342c88fbc676">
-        <dex dex="/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/pre-dexed/debug/cli_b11d25192c88cf74bf745ec1418fd306886aa4d5.jar" />
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="C:\Mobile Computing\Mobile Computing Version 2\Mobile-EdgeCompute\AndroidEdgeServer\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.0.1_5bbfee64c59d18edbda20dbe3d7d5df76d6121b5\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/http/build/libs/http.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\Sai\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.1.0\9b51f7d0c19f179b52beab7cb433f8ba5cf786a4\okhttp-2.1.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="2555337b8ce13f8785adb03f496590dc7ad47ce4">
-        <dex dex="/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/pre-dexed/debug/http_0c9e2bdc79adf6b515b9cefa2730464b45c44a59.jar" />
+        sha1="9b51f7d0c19f179b52beab7cb433f8ba5cf786a4">
+        <dex dex="C:\Mobile Computing\Mobile Computing Version 2\Mobile-EdgeCompute\AndroidEdgeServer\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.1.0_99d4d853c0a2da62a6942ce9f7e4cea6b8622691\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Mobile Computing\Mobile Computing Version 2\Mobile-EdgeCompute\AndroidEdgeServer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Mobile Computing\Mobile Computing Version 2\Mobile-EdgeCompute\AndroidEdgeServer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3712a1108ed58085b8f4e2fc27098daa1eafcc48\classes.dex" />
     </item>
 
 </items>

@@ -1,82 +1,42 @@
 [
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_slide_in_top.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_slide_out_top.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_fade_out.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_popup_exit.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Mobile Computing\\Mobile Computing Project Version 1\\HierarchicalCloud\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/home/karan/FinalMobile/Mobile-EdgeCompute/AndroidEdgeServer/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/karan/.android/build-cache/f3cba7c3b4cbe34496a5aeb65f9a4d61d91d2cd0/output/res/anim/abc_popup_enter.xml"
+        "merged": "C:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Sai\\.android\\build-cache\\88f4c8dd4a978060ac51b0978f01b06d5bab351d\\output\\res\\anim\\abc_slide_in_top.xml"
     }
 ]
