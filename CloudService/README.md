@@ -12,10 +12,10 @@
 5) This war can be used to deploy the application on any server 
 
 Example:
-Deploying was on aws beanstalk.
-	1) Login to amazon aws account.
-	2) Go to beanstalk dash board
-	3) select a existing beanstalk instance or create a new one and select tom cat as server
-	4) If creating new one provide the war file when creating the server
-	5) If exisiting upload the new war file to replace the old one.
-	6) Once successfull deployed use application link to access the application
+Deploying was on aws beanstalk. </br>
+	1) Login to amazon aws account. </br>
+	2) Go to beanstalk dash board </br>
+	3) select a existing beanstalk instance or create a new one and select tom cat as server </br>
+	4) If creating new one provide the war file when creating the server </br>
+	5) If exisiting upload the new war file to replace the old one. </br>
+	6) Once successfull deployed use application link to access the application </br>
