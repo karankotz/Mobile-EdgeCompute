@@ -15,22 +15,7 @@ public class Unitconverter extends HttpServlet {
         Double input = Double.parseDouble(req.getParameter("input"));
         String type =  req.getParameter("typeofconversion");
         String result = convert(input, type);
-       // resp.setContentType("text/html");
-
         PrintWriter out = resp.getWriter();
-    /*    out.println("<html>");
-        out.println("<head>");
-        out.println("<title>Hola</title>");
-        out.println("</head>");
-        out.println("<body bgcolor=\"white\">");
-        out.println("<h1>Result :: "+result+"<h1>");
-        out.println("<a href=\"convert.jsp\">Back<a>");
-        out.println("</body>");
-        out.println("</html>");*/
-        /**out.println("<script type=\"text/javascript\">");
-        out.println("alert('Result: "+result+"');");
-        out.println("location='convert.jsp';");
-        out.println("</script>");**/
         out.println(result);
     }
 

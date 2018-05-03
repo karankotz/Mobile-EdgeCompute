@@ -3,16 +3,6 @@ package nqueens;
 
 public class N_Queen_helper {
 
-//    public void service(HttpServletRequest request, HttpServletResponse response) throws ServletException {
-//        ServerConfig serverConfig = (ServerConfig) getServletContext().getAttribute(ServerConfig.class.getName());
-
-//    HTMLDocument doc = new HTMLDocument("N_Queens", false);
-//
-//        doc.setOwnerClass(getClass().getSimpleName());
-//
-//        doc.writeln("<div class=\"form-unit\">");
-//
-//        doc.writeln("<h2>N_Queen's Chess Problem</h2>");
 
     public int nQ;
 
@@ -67,7 +57,6 @@ public class N_Queen_helper {
 
 
     public int main(int n) {
-        //int n = Integer.parseInt(args[0]);
         enumerate(n);
         return nQ;
     }
