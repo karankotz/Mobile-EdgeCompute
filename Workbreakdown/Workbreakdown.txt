@@ -1,0 +1,20 @@
+We contributed equally with the following keypoints as noted with the following:
+
+1>Initial code deployment of the mobile edge server and implmentation of the simple 
+calculator module on the Android based web application and Load Balancing design and 
+implmentation by Karan Kotabagi.
+
+2>Implmentation of the Unit converter module and Nqueen's on the Android based web application, 
+offloading logic and ARO data capture and Analysis by Karan Kamatgi.
+
+3>Implementation of the Unit Converter module and Nqueen's as a cloud service implemented on the 
+Amazon AWS beanstalk server, and ARO data capture and analysis by Ramyashree DG.
+
+All of us have equally contributed to the paper.
+
+
+
+
+
+
+

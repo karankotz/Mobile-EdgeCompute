@@ -25,7 +25,7 @@ public class Login extends HttpServlet {
 
         doc.writeln("<div class=\"form-login\">");
 
-        doc.writeln("<h2> Web Server</h2>");
+        doc.writeln("<h2> Web Server Login Edge 2</h2>");
 
         if (request.getMethod().equals(HttpRequestWrapper.METHOD_POST)) {
             if (ac.doLogin(request.getPostParameter("login"), request.getPostParameter("password"))) {

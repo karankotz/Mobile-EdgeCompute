@@ -1,0 +1,7 @@
+#Wed May 02 16:44:35 EDT 2018
+base.0=C\:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3712a1108ed58085b8f4e2fc27098daa1eafcc48
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d860d07f1005fc3f28fcaf367b8cd0f8b5464ef\\classes.dex
+base.1=C\:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6d860d07f1005fc3f28fcaf367b8cd0f8b5464ef
+file.0=C\:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3712a1108ed58085b8f4e2fc27098daa1eafcc48\\classes.dex

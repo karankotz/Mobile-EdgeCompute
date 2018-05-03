@@ -1,0 +1,4 @@
+#Wed May 02 13:09:36 EDT 2018
+base.0=C\:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=C\:\\Mobile Computing\\Mobile Computing Version 2\\Mobile-EdgeCompute\\AndroidEdgeServer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex
