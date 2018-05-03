@@ -4,8 +4,8 @@
 
 2) Make sure maven is installed on the system.
 
-3) Navigate to the folder where pom file is present and execute the following commnad.
-	'mvn package'
+3) Navigate to the folder where pom file is present and execute the following commnad. </br>
+	`mvn package`
 
 4) The maven will build the project. Once the build is completed, a war file with name 'j2ee.war' is generated in the target folder.
 
