@@ -7,8 +7,18 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+/**
+ * Nqueen servlet
+ */
 public class Nqueens extends HttpServlet {
 
+    /**
+     * Handles request for n queens servlet
+     * @param req request from the client
+     * @param resp response from server
+     * @throws ServletException
+     * @throws IOException
+     */
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 

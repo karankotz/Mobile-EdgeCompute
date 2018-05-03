@@ -7,8 +7,18 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+/**
+ * conversion from one unit to the other
+ */
 public class Unitconverter extends HttpServlet {
 
+    /**
+     * Handles request for unit converter servlet
+     * @param req request from the client
+     * @param resp respons to the server
+     * @throws ServletException
+     * @throws IOException
+     */
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
@@ -19,7 +29,12 @@ public class Unitconverter extends HttpServlet {
         out.println(result);
     }
 
-
+    /**
+     * converts given value to a given type
+     * @param t value to be converted
+     * @param type type of conversion
+     * @return converted value
+     */
     public String convert(Double t, String type){
         double convertedOutput=0.0;
         String c="0";

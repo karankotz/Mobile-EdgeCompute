@@ -1,5 +1,8 @@
 package Util;
 
+/**
+ * credentials class
+ */
 public class ConstantUtil {
     final public static String HOST = "clouapp.cpvyownkkhcs.us-west-2.rds.amazonaws.com";
     final public static String DB_NAME = "cloudapp";

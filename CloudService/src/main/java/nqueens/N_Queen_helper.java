@@ -1,6 +1,8 @@
 package nqueens;
 
-
+/**
+ * Implements n queen logic
+ */
 public class N_Queen_helper {
 
 
