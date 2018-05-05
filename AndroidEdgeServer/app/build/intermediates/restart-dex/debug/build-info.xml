@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="24"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
     build-mode="FULL"
-    density="xxhdpi"
+    density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1525293848078"
+    timestamp="1525445368145"
     token="-2211027260600708301"
     verifier="FULL_BUILD_REQUESTED" >
 
@@ -18,7 +18,7 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="10845" />
+        duration="10052" />
     <task
         name="verifier"
         duration="0" />
@@ -62,7 +62,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1525293848078"
+        timestamp="1525445368145"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Mobile Computing\Mobile Computing Version 2\Mobile-EdgeCompute\AndroidEdgeServer\app\build\outputs\apk\app-debug.apk"

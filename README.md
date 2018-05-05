@@ -74,7 +74,9 @@ The Android Application is an edge server that can be run with the following ste
 	
     https://www.haproxy.org/download/1.4/doc/configuration.txt
 	
+### Git Link
 
+	https://github.com/karankotz/Mobile-EdgeCompute
 
 		
 	
